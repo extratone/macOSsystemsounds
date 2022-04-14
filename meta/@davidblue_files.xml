@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="@davidblue_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>882722db4ec415e3974aa6da764b221f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="@davidblue_mailinglists.json" source="original">
+    <mtime>1642733907</mtime>
+    <size>388</size>
+    <md5>1744349ecab40af8e4a1802db5fac6e6</md5>
+    <crc32>5d7dcf48</crc32>
+    <sha1>2d6084356fa64cbfc07487eb64dc3a6752858edf</sha1>
+    <format>Mailing Lists JSON</format>
+    <private>true</private>
+  </file>
+  <file name="@davidblue_meta.sqlite" source="original">
+    <mtime>1598655801</mtime>
+    <size>8192</size>
+    <md5>80a147a43886a6ba420625aec2ebb7d1</md5>
+    <crc32>9e58ea67</crc32>
+    <sha1>81b77a633dc3343945bf5db3604f6e11022b1b3e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="@davidblue_meta.xml" source="original">
+    <mtime>1649927796</mtime>
+    <size>1711</size>
+    <format>Metadata</format>
+    <md5>f7f80cd6cf77d1d5ab91692f8fb3fba7</md5>
+    <crc32>3fd7430a</crc32>
+    <sha1>485d536adfb75c8bc7b359a13801b44831a3d373</sha1>
+  </file>
+  <file name="@davidblue_web-archive.json" source="original">
+    <mtime>1649918803</mtime>
+    <size>19486</size>
+    <format>Web Archive JSON</format>
+    <md5>dced964095a4dbbc2981ee46f6fa6dea</md5>
+    <crc32>bec8456a</crc32>
+    <sha1>c9ee8be29425488a9de5dd401accff7f9c6590eb</sha1>
+  </file>
+  <file name="David Blue Portrait Little.jpg.jpeg" source="original">
+    <mtime>1598655797</mtime>
+    <size>1007185</size>
+    <md5>0dcb42a702f589589ccb1fdab9f513e6</md5>
+    <crc32>52e808e8</crc32>
+    <sha1>5a4eb41fea487a3f8e67e187863df401260082f4</sha1>
+    <format>Item Image</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1611705495</mtime>
+    <size>9243</size>
+    <md5>271c69203249b38d848e389ed6631a20</md5>
+    <crc32>d9f0b116</crc32>
+    <sha1>522962f87543e5d5f8dc0f10d4739bb49543d949</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
